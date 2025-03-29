@@ -25,7 +25,10 @@ You can provision Azure AI Vision as a single-service resource, or you can use t
 1. To install the Python libraries:
 >`pip install -r requirements.txt`
 
-2. To run the Python script:
+2. Copy the .env.example to .env and update the values for the Azure AI Service Endpoint and API Key
+>`cp .env.example .env`
+
+3. To run the Python script:
 >`python image_analysis.py`
 
 If you find the repository helpful, please give it a star!
