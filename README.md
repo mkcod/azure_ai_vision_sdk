@@ -20,4 +20,14 @@
 
 You can provision Azure AI Vision as a single-service resource, or you can use the Azure AI Vision API in a multi-service Azure AI Services resource.
 
+### Get started with the Python Code
 
+1. To install the Python libraries:
+>`pip install -r requirements.txt`
+
+2. To run the Python script:
+>`python image_analysis.py`
+
+If you find the repository helpful, please give it a star!
+
+Thank you, happy coding!
